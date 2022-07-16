@@ -3,12 +3,12 @@
 # CLONE PHASE
 git clone https://github.com/MadDeCoDeR/Classic-RBDOOM-3-BFG.git source
 pushd source
-git checkout cf9c2fa
+git checkout 1875830
 popd
 
 git clone https://github.com/kcat/openal-soft.git openal
 pushd openal
-git checkout ae4eacf
+git checkout dc83d99
 popd
 
 # BUILD PHASE
